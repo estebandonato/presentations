@@ -1,0 +1,6 @@
+Pasos para empezar la práctica:
+
+1-Logueate en Databricks CE con tu usuario y password: https://community.cloud.databricks.com/
+2-Importá la netebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6033818559712982/2194522886470199/7209531384180511/latest.html 
+3-Importá la librería: graphframes-0.6.0-spark2.1-s_2.11
+4-Importá la librería: sparkling-graph-operators_2.11-0.0.7 
